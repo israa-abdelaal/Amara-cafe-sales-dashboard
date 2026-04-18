@@ -34,7 +34,7 @@ The sales performance of Amara Cafe across multiple branches.
 
 ## 📈 Insights
 - Sales grew by **1.28%** compared to previous period
-- **Wafer Frappe with Chocolate** is the top selling product (8.89K)
+- **Wafer Frappe with Chocolate** is the top-selling product (8.89K)
 - **Al Shawqiya** branch leads in total sales (20K)
 ## 📷 Dashboard Preview
 ![Amara Cafe Dashboard Page 1](Screenshot%202026-04-15%20182624.png)
