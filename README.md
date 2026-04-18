@@ -1,7 +1,7 @@
 # ☕ Amara Cafe Sales Dashboard
 
 An interactive Power BI dashboard built to analyze and track 
-the sales performance of Amara Cafe across multiple branches.
+The sales performance of Amara Cafe across multiple branches.
 
 ## 📊 Dashboard Overview
 
@@ -37,5 +37,6 @@ the sales performance of Amara Cafe across multiple branches.
 - **Wafer Frappe with Chocolate** is the top selling product (8.89K)
 - **Al Shawqiya** branch leads in total sales (20K)
 - ## 📷 Dashboard Preview
-![Amara Cafe Dashboard](dashboard.png)
+## 📷 Dashboard Preview
+![Amara Cafe Dashboard](Screenshot%202026-04-15%20182624.png)
 
